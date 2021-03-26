@@ -759,7 +759,7 @@ h4 {
 }
 
 .black-background { 
-    background-color: rgba(64, 48, 0, 1);
+    background-color: rgba(64, 48, 0, 0.9);
     padding: 40px 40px 40px 40px;
 }
 
