@@ -742,7 +742,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #C94748!important;
 }
 
 .portfolio-thumb {
@@ -759,7 +759,7 @@ h4 {
 }
 
 .black-background { 
-    background-color: rgba(64, 48, 0, 0.9);
+    background-color: rgba(23, 23, 23, 0.9);
     padding: 40px 40px 40px 40px;
 }
 
@@ -777,22 +777,22 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #94380D;
+    background-color: rgba(23, 23, 23, 1);
 }
 
 .tc-white {
     position: relative;
     z-index: 2;
-    color: #F3976C!important;
+    color: #DE4E4F!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #DE4E4F;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #DE4E4F!important;
     color: #FFFFFF!important;
 }
 
@@ -805,11 +805,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #DE4E4F!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #DE4E4F!important;
 }
 
 .icon-dark-slate-blue {
@@ -839,7 +839,7 @@ h4 {
         padding-right: 20px;
     }
     .bloc.full-width-bloc,
-    .bloc-tile-2.full-width-bloc .container,
+    .atomictile-2.full-width-bloc .container,
     .bloc-tile-3.full-width-bloc .container,
     .bloc-tile-4.full-width-bloc .container {
         padding-left: 0;
